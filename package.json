@@ -60,11 +60,11 @@
     "rebound": "*"
   },
   "devDependencies": {
-    "@babel/core": "7.5.4",
-    "@babel/preset-env": "7.5.4",
-    "@babel/preset-react": "7.0.0",
-    "@babel/preset-typescript": "7.3.3",
-    "@babel/plugin-syntax-dynamic-import": "7.2.0",
+    "@babel/core": "7.24.4",
+    "@babel/preset-env": "7.24.4",
+    "@babel/preset-react": "7.24.1",
+    "@babel/preset-typescript": "7.24.1",
+    "@babel/plugin-syntax-dynamic-import": "7.8.3",
     "babel-plugin-dynamic-import-node": "2.3.0",
     "@semantic-release/changelog": "3.0.4",
     "@semantic-release/git": "7.0.16",
